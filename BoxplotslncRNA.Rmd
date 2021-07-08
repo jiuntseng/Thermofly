@@ -1,0 +1,62 @@
+---
+title: "boxplotslncRNA"
+author: "Jiun Tseng"
+date: "6/21/2021"
+output: html_document
+---
+```{r}
+library(data.table)
+library(dplyr)
+library(ggplot2)
+library(edgeR)
+library(patchwork)
+```
+
+```{r}
+# subset for list of potential lncRNAs, per condition
+temp = list.files("/Users/skogut/Desktop/Frietze_Lab/FrietzeLab/de_lnc_list")
+setwd("/Users/skogut/Desktop/Frietze_Lab/FrietzeLab/de_lnc_list")
+named.list <- lapply(temp, read.csv)
+gg_list <- list()
+
+files.matrix <-rbindlist(named.list)
+
+lncs<- unique(files.matrix$FBgn0263019)
+lncs<- lncs[1:696]
+
+mergecounts_norm<- mergecounts_norm[which(row.names(mergecounts_norm) %in% lncs),]
+
+# transpose
+mergecounts_t<- t(mergecounts_norm)
+# add treat and data_set
+info<- rbind(AA_AS_counts_info, DA_counts_info, encode_counts_info)
+mergecounts_t<- cbind(info, mergecounts_t)
+# combine data_set and treat into 1 column
+# info$treatment<- paste(info$treat, info$data_set)
+# info$treatment<- gsub(" ", ":", info$treatment)
+# 
+# mergecounts_t<- cbind(info$treatment, mergecounts_t)
+# colnames(mergecounts_t)[1]<-"Treatment"
+
+#melt
+df<-melt(mergecounts_t)
+df = as.data.table(df)
+# edit to melt
+Treatment<- paste(df$treat, df$data_set)
+Treatment<- gsub(" ", ":", Treatment)
+df<- data.table("Treatment"= Treatment, "variable"= df$variable, "value"= df$value)
+  
+summary_df =df[, .(y = mean(value), ymin = mean(value) - sd(value), ymax = mean(value) + sd(value)), .(variable, Treatment)]
+
+
+for(i in unique(df$variable)){
+  data<- df[which(df$variable[] == i),]
+ # need to fix into boxplots 
+ gg_list[[i]]<- ggplot(data, aes(x=Treatment, y=value,fill=Treatment)) +  geom_boxplot()
+ #theme_classic() + theme(legend.position= "none") + labs(title=paste(i))
+  print(i)
+  print(gg_list[[i]])
+}
+
+```
+

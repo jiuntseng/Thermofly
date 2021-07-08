@@ -1,0 +1,150 @@
+---
+title: "lncRNAdeanalysis"
+author: "Jiun Tseng"
+date: "6/8/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r, load library}
+library("jsonlite")
+library("rjson")
+library("BiocManager")
+library("tidyverse")
+library("tidyjson")
+library("jsonlite")
+library("dplyr")
+```
+I. Identification of differentially expressed genes in three datasets: 
+For differential expression criteria:
+|log>1|, padj < 0.05
+
+```{r, A mod encode }
+load("/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/fly_summer_encode.RData")
+
+#tottal degs for cold vs control and heat vs control
+cold<-as.data.frame(out.DESeq2[["results"]][["coldshock_vs_control"]])
+cold<-na.omit(cold)
+cold$log<-abs(as.numeric(cold$log2FoldChange))
+cold<-subset(cold, log >= 1)
+cold<-subset(cold, padj<= 0.05)
+nrow(cold)
+
+heat<-as.data.frame(out.DESeq2[["results"]][["heatshock_vs_control"]])
+heat<-na.omit(heat)
+heat$log<-abs(as.numeric(heat$log2FoldChange))
+heat<-subset(heat, log >= 1)
+heat<-subset(heat, padj<= 0.05)
+nrow(heat)
+
+#upregulated and downregulated degs
+encold_down<-subset(cold, log2FoldChange <0 )
+encold_up<- subset(cold,log2FoldChange > 0 )
+
+enheat_down<-subset(heat, log2FoldChange <0)
+enheat_up<-subset(heat, log2FoldChange >0 )
+nrow(encold_down)
+nrow(encold_up)
+nrow(enheat_up)
+nrow(enheat_down)
+
+```
+
+```{r, B developmental acclimation}
+#ask seth if we should use AA data instead
+load("/Users/jiuntseng/Documents/Thermofly/Rdata/DA 9 D7 New kit, 3 D2 old kit.RData")
+print(colnames(counts))
+counts<-counts[ , -c(4:6)]
+
+cahanhot<-as.data.frame(out.DESeq2[["results"]][["DAHot_vs_DAControl"]])
+cahanhot<-na.omit(cahanhot)
+cahanhot$log<-abs(as.numeric(cahanhot$log2FoldChange))
+cahanhot<-subset(cahanhot, log >= 1)
+cahanhot<-subset(cahanhot, padj<= 0.05)
+nrow(cahanhot)
+
+cahanhot_up<-subset(cahanhot, log2FoldChange > 0)
+cahanhot_down<-subset(cahanhot, log2FoldChange <0)
+nrow(cahanhot_up)
+nrow(cahanhot_down)
+```
+
+```{r, C MacMillan 2016}
+#asign csv file to raw variable
+raw<- read.csv("/Users/jiuntseng/Documents/Thermofly/rawcummeRbund_jiun.csv")
+#create new column called log to be asigned with data from log2.fold_change. collum,
+#convert this data to numeric values and get the absolute values of this data
+raw$log<-abs(as.numeric(raw$log2.fold_change.))
+#subset for values greater or equal to 1, demac = differential expression from the MacMilan paper 
+demac<-subset(raw, log >= 1)
+#subset for values that is significant
+demac<-subset(demac, significant == "yes")
+
+#write output function to csv file with 51 significant genes
+write.csv(demac$gene, "/Users/jiuntseng/Documents/Thermofly/MacMillandeg.csv", row.names = F)
+
+#downregulated genes not available, importing up regulated genes
+#supplementary dataset 2 from MacMillan 2016
+#figure out differential expression criteria
+Maccold_up<-read.csv("/Users/jiuntseng/Documents/Thermofly/Geneshigherincold_rawcumberbund.csv")
+Machot_up<-read.csv("/Users/jiuntseng/Documents/Thermofly/geneshigherinhot_rawcumberbund.csv")
+```
+
+Identification of lncRNAs in differential expressed genes
+For differential expression criteria:
+|log>1|, padj < 0.05
+```{r, lcnRNA json}
+library(jsonlite)
+json<- fromJSON("/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/ncRNA_genes_fb_2021_02.json") %>% as.data.frame
+#subsetting genes from json data frame
+gene<- json$data.gene
+
+#write.csv(gene$geneId, "lnc_geneID.csv", row.names = F)
+#creating a vector of gene id from the gene data frame
+geneid<-gene$geneId
+#substituting out "FLYBASE" from the gene id to compare the samples
+geneid<-gsub("FLYBASE:","", geneid)
+
+head(geneid)
+head(demac)
+
+#macdeg<-read.table("/Users/jiuntseng/Documents/Thermofly/FlyBase_MacMillandegs.txt", sep="\t")
+#macdeg = macdeg[-1,]
+same<-geneid[geneid %in% macdeg$V2]
+same<-unique(same)
+write.csv(same, "/Users/jiuntseng/Documents/Thermofly/SameMacMillandeg.csv", row.names = F )
+```
+
+```{r, A lncRNA mod encode}
+# encold_up<-row.names(encold_up)
+# samegencold_up<-geneid[geneid %in% encold_up]
+# samegencold_up<-unique(samegencold_up)
+
+# CHANGE IMSIDE PARANTHESES
+# encold_up, encold_down, enheat_up, enheat_down, cahanhot_up, cahanhot_down, Machot_up, Maccold_up
+
+#data<- row.names(encold_up)
+data<-row.names(enheat_down)
+write.csv(data, "/Users/jiuntseng/Documents/Thermofly/degs/enheat_downdegs.csv", quote = F, row.names = F)
+same<- geneid[geneid %in% data]
+same<- unique(same)
+length(same)
+# CHANGE FILE NAME
+write.csv(same, "/Users/jiuntseng/Documents/Thermofly/de_lnc_lists/Maccold_up.csv", row.names = F)
+
+#For loop to make deg list
+objects<- c(encold_up, encold_down, enheat_up, enheat_down, cahanhot_up, cahanhot_down)
+
+for (i in 1:length(objects)){
+
+  data<- objects[[1]]
+
+  same<- geneid[geneid %in% data]
+  same<- unique(same)
+  length(same)
+# CHANGE FILE NAME
+write.csv(same, paste0("/Users/jiuntseng/Documents/Thermofly/", objects[[1]], ".csv"), row.names = F)
+  
+}
+```
+

@@ -1,0 +1,33 @@
+list.files("/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/raw")
+library("devtools")
+devtools::install_github("PF2-pasteur-fr/SARTools", build_opts="--no-resave-data")
+
+tmp <- installed.packages()
+installedpkgs <- as.vector(tmp[is.na(tmp[,"Priority"]), 1])
+save(installedpkgs, file="installed_old.rda")
+tmp <- installed.packages()
+installedpkgs.new <- as.vector(tmp[is.na(tmp[,"Priority"]), 1])
+missing <- setdiff(installedpkgs, installedpkgs.new)
+install.packages(missing)
+update.packages(ask= FALSE)
+chooseBioCmirror()
+biocLite() 
+load("installed_old.rda")
+tmp <- installed.packages()
+installedpkgs.new <- as.vector(tmp[is.na(tmp[,"Priority"]), 1])
+missing <- setdiff(installedpkgs, installedpkgs.new)
+for (i in 1:length(missing)) biocLite(missing[i])
+
+devtools::install_github("https://github.com/PF2-pasteur-fr/SARTools", build_opts="--no-resave-data")
+install.packages("stringr")
+library(edgeR)
+library(SARTools)
+sessionInfo()
+devtools::install_github("PF2-pasteur-fr/SARTools@v1.7.3", build_opts="--no-resave-data")
+
+#creating target file for encode data
+samp <- data.frame("label"= list.files("/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/raw"), "files" = list.files("/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/raw"))
+samp$label<-gsub(".ReadsPerGene.out.tab.count","", samp$label)
+samp$treat<-samp$label
+samp$treat<-gsub("\\d", "", samp$treat)
+write.table(samp, "/Users/jiuntseng/Documents/Thermofly/Fly_summerencode.txt", quote = F, sep = "\t", row.names = F)

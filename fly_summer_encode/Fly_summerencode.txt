@@ -1,0 +1,11 @@
+label	files	treat
+coldshock1	coldshock1.ReadsPerGene.out.tab.count	coldshock
+coldshock2	coldshock2.ReadsPerGene.out.tab.count	coldshock
+coldshock3	coldshock3.ReadsPerGene.out.tab.count	coldshock
+coldshock4	coldshock4.ReadsPerGene.out.tab.count	coldshock
+control1	control1.ReadsPerGene.out.tab.count	control
+control2	control2.ReadsPerGene.out.tab.count	control
+control3	control3.ReadsPerGene.out.tab.count	control
+control4	control4.ReadsPerGene.out.tab.count	control
+heatshock1	heatshock1.ReadsPerGene.out.tab.count	heatshock
+heatshock2	heatshock2.ReadsPerGene.out.tab.count	heatshock

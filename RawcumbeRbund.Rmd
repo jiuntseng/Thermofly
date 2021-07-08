@@ -1,0 +1,18 @@
+---
+title: "RawcumbeRbund"
+author: "Jiun Tseng"
+date: "6/8/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r}
+raw<- read.csv("/Users/jiuntseng/Documents/Thermofly/rawcummeRbund_jiun.csv")
+raw$log<-abs(as.numeric(raw$log2.fold_change.))
+demac<-subset(raw, log >= 1)
+demac<-subset(demac, significant == "yes")
+head(demac)
+```
+
+
+

@@ -1,0 +1,44 @@
+---
+title: "Boxplots4lncRNAprimerdesgin"
+author: "Jiun Tseng"
+date: "6/14/2021"
+output: html_document
+---
+```{r}
+library(dplyr)
+```
+
+```{r}
+load("/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/fly_summer_encode.RData")
+encoldrs<-data.frame(out.DESeq2[["results"]][["coldshock_vs_control"]])
+encoldrs<-encoldrs[c("log2FoldChange", "padj")]
+
+enheatrs<-data.frame(out.DESeq2[["results"]][["heatshock_vs_control"]])
+enheatrs<-enheatrs[c("log2FoldChange", "padj")]
+
+encvshrs<-data.frame(out.DESeq2[["results"]][["heatshock_vs_coldshock"]])
+encvshrs<-encvshrs[c("log2FoldChange", "padj")]
+
+encold<-cbind(encoldrs, enheatrs, encvshrs)
+colnames(a)<-c("cold_log2FoldChange","cold_padj","hot_log2FoldChange" ,"hot_padj","hvsc_log2FoldChange","hvsc_padj")
+
+a<-encold[c("FBgn0267742","FBgn0063127", "FBgn0262972", "FBgn0262887", "FBgn0264271", "FBgn0267087"),]
+write.csv(a,"/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/encodelfc.csv")
+dacoldvscon<-data.frame(out.DESeq2[["results"]][["DACold_vs_DAControl"]])
+dacoldvscon<-dacoldvscon[c("log2FoldChange", "padj")]
+
+dahotvscon<-data.frame(out.DESeq2[["results"]][["DAHot_vs_DAControl"]])
+dahotvscon<-dahotvscon[c("log2FoldChange", "padj")]
+
+da<-cbind(dacoldvscon, dacoldvscon)
+colnames(da)<-c("coldvscontrol_log2FoldChange","coldvscontrol_padj","hotvscontrol_log2FoldChange" ,"hotvscontrol_padj")
+da<-da[c("FBgn0267742","FBgn0063127", "FBgn0262972", "FBgn0262887", "FBgn0264271", "FBgn0267087"),]
+write.csv(da,"/Users/jiuntseng/Documents/Thermofly/fly_summer_encode/dalfc.csv")
+
+
+load("/Users/jiuntseng/Documents/Thermofly/Rdata/DA 9 D7 New kit, 3 D2 old kit.RData")
+# a<-encold$data.frame(row.names=c("FBgn0000003"))
+                     
+# encoldrs<-cbind(rowencoders$coldshock_vs_control.log2FoldChange, encoldrs$padj)
+
+```

@@ -1,0 +1,997 @@
+# submitted_item	validated_id	current_symbol
+Gene	unknown ID	-
+chr2L_8703792_8704176.0	unknown ID	-
+chr2L_19569521_19569871.0	unknown ID	-
+chr3R_13741855_13742347.0	unknown ID	-
+chr2L_14086002_14086238.0	unknown ID	-
+chr2R_8672578_8673094.0	unknown ID	-
+chr3R_10300701_10300955.0	unknown ID	-
+IP13033	FBcl0293131	IP13033
+chr2R_9377823_9378188.0	unknown ID	-
+cact	FBgn0000250	cact
+chr3R_1917296_1917503.0	unknown ID	-
+chr2L_15846923_15847417.0	unknown ID	-
+chr2R_10912640_10913060.0	unknown ID	-
+chr2L_18313534_18314078.0	unknown ID	-
+chr2R_12193544_12194199.0	unknown ID	-
+chr3L_16432902_16433603.0	unknown ID	-
+chr2L_21798044_21799854.0	unknown ID	-
+chr2R_17615031_17615721.0	unknown ID	-
+chr3R_5867752_5868300.0	unknown ID	-
+chr2L_3667472_3667893.0	unknown ID	-
+chr3L_18421630_18422370.0	unknown ID	-
+chr2L_11661679_11662559.0	unknown ID	-
+chr2L_4334987_4335394.0	unknown ID	-
+chr2L_3106943_3107159.0	unknown ID	-
+chr3L_1269661_1269923.0	unknown ID	-
+chr2L_11205639_11206097.0	unknown ID	-
+CG4857	FBgn0026083	tyf
+chr2L_21869108_21869569.0	unknown ID	-
+chr2L_3268204_3268702.0	unknown ID	-
+Chd1	FBgn0250786	Chd1
+chr2R_18261226_18261489.0	unknown ID	-
+chr2L_20918212_20918617.0	unknown ID	-
+chr2L_22169643_22170188.0	unknown ID	-
+chr3L_9860918_9861213.0	unknown ID	-
+CG3436	FBgn0031229	CG3436
+DMG4-MB6.chrX.37.001	unknown ID	-
+chr2L_10785500_10786177.0	unknown ID	-
+chr2L_3104100_3104562.0	unknown ID	-
+chr2L_12840864_12841381.0	unknown ID	-
+chr3R_23825202_23826732.0	unknown ID	-
+CG13947	FBgn0031277	CG13947
+chr2L_11203258_11203613.0	unknown ID	-
+chr3L_22343822_22344070.0	unknown ID	-
+chr2L_858412_858976.0	unknown ID	-
+chr3R_23363968_23364885.0	unknown ID	-
+chr2L_18795816_18796184.0	unknown ID	-
+chr3L_13075247_13075793.0	unknown ID	-
+chr2L_799858_800348.0	unknown ID	-
+chr2L_15202262_15203746.0	unknown ID	-
+MIP19007	FBcl0723097	MIP19007
+CG31736	FBgn0051736	CG31736
+chr3R_22864776_22865035.0	unknown ID	-
+chr3R_1917917_1918207.0	unknown ID	-
+chr2L_859035_859430.0	unknown ID	-
+MIP22536	FBcl0740426	MIP22536
+chr2L_4614013_4614300.0	unknown ID	-
+chr2R_11081713_11081988.0	unknown ID	-
+chr2L_8705131_8705378.0	unknown ID	-
+chr3L_18057582_18057993.0	unknown ID	-
+MIP20239	FBcl0723045	MIP20239
+chr2L_16003730_16004250.0	unknown ID	-
+chr2R_135227_135517.0	unknown ID	-
+chr2L_17369533_17370064.0	unknown ID	-
+chr2L_2000414_2000927.0	unknown ID	-
+chr2L_17918528_17919176.0	unknown ID	-
+chr2L_14496969_14498135.0	unknown ID	-
+chr2L_2532935_2533689.0	unknown ID	-
+chr2L_12504485_12504711.0	unknown ID	-
+chr3L_15055281_15055717.0	unknown ID	-
+chr2L_22923851_22925105.0	unknown ID	-
+chrU_7356781_7357351.0	unknown ID	-
+chr3L_10788056_10788284.0	unknown ID	-
+chr2L_18400490_18401303.0	unknown ID	-
+chr2L_259967_260321.0	unknown ID	-
+chr2L_20947036_20948205.0	unknown ID	-
+chr3L_18316644_18317098.0	unknown ID	-
+chr2L_19262301_19263063.0	unknown ID	-
+chr2L_5631727_5632034.0	unknown ID	-
+CG3436	FBgn0031229	CG3436
+chr2L_17247213_17247660.0	unknown ID	-
+chr2L_6569369_6570227.0	unknown ID	-
+chr3L_22413968_22414504.0	unknown ID	-
+chr2L_14044987_14045843.0	unknown ID	-
+CG40463	FBgn0058463	CG40463
+chr2L_4249169_4249714.0	unknown ID	-
+chr2L_18664469_18665119.0	unknown ID	-
+chr2L_10638224_10638442.0	unknown ID	-
+chr2L_9737707_9737923.0	unknown ID	-
+mod(mdg4)	FBgn0002781	mod(mdg4)
+chr2L_15277808_15279632.0	unknown ID	-
+chr3R_5635916_5636452.0	unknown ID	-
+chr2L_15279832_15280513.0	unknown ID	-
+CG5781	FBgn0032448	CG5781
+chr2R_4962974_4963377.0	unknown ID	-
+chr2L_9725750_9726266.0	unknown ID	-
+chr3L_754824_755479.0	unknown ID	-
+MIP22416	FBcl0740408	MIP22416
+CG14103	FBgn0083952	CG34116
+CG14103	FBgn0036908	TORIP
+chr2L_479146_479357.0	unknown ID	-
+MIP12921	FBcl0703840	MIP12921
+chr2L_11184371_11184996.0	unknown ID	-
+chr2L_1136532_1137444.0	unknown ID	-
+chr2L_11736321_11737536.0	unknown ID	-
+chr2L_22705365_22706170.0	unknown ID	-
+chr2L_16982540_16983106.0	unknown ID	-
+chr2L_12092769_12093234.0	unknown ID	-
+chr2L_12640976_12641280.0	unknown ID	-
+chr2L_12645861_12646341.0	unknown ID	-
+chr2L_14087339_14087616.0	unknown ID	-
+chr2L_14839754_14840121.0	unknown ID	-
+chr2L_15515802_15516745.0	unknown ID	-
+chr2L_15865315_15883206.0	unknown ID	-
+chr2L_16001934_16002275.0	unknown ID	-
+chr2L_16628843_16629150.0	unknown ID	-
+chr2L_17206701_17207074.0	unknown ID	-
+chr2L_17225614_17226103.0	unknown ID	-
+chr2L_9405836_9406263.0	unknown ID	-
+chr2L_17902827_17903063.0	unknown ID	-
+chr2L_17948137_17948847.0	unknown ID	-
+chr2L_19217295_19218160.0	unknown ID	-
+chr2L_19269033_19271849.0	unknown ID	-
+chr2L_19271918_19272863.0	unknown ID	-
+chr2L_21868225_21868869.0	unknown ID	-
+chr2L_21977298_21977662.0	unknown ID	-
+chr2L_22445906_22446879.0	unknown ID	-
+chr2L_2278153_2279251.0	unknown ID	-
+chr2L_2391513_2392180.0	unknown ID	-
+chr2L_267102_267482.0	unknown ID	-
+chr2L_3101041_3101514.0	unknown ID	-
+chr2L_3101669_3101932.0	unknown ID	-
+chr2L_3103395_3103653.0	unknown ID	-
+chr2L_3210520_3211409.0	unknown ID	-
+chr2L_3627636_3627855.0	unknown ID	-
+chr2L_4335788_4336447.0	unknown ID	-
+chr3R_8123227_8124082.0	unknown ID	-
+chr2L_4612565_4613604.0	unknown ID	-
+chr2L_481217_481542.0	unknown ID	-
+chr2L_483328_484045.0	unknown ID	-
+chr2L_6088263_6088504.0	unknown ID	-
+chr2L_6360412_6361455.0	unknown ID	-
+chr2L_6749660_6749877.0	unknown ID	-
+chr2L_7133822_7134047.0	unknown ID	-
+chr2L_8809498_8810978.0	unknown ID	-
+chr2L_8887436_8888049.0	unknown ID	-
+chr2L_9327018_9327652.0	unknown ID	-
+chr2L_9721046_9721343.0	unknown ID	-
+chr2R_12619543_12619837.0	unknown ID	-
+chr3R_5565700_5565978.0	unknown ID	-
+chr3L_3884480_3884806.0	unknown ID	-
+DMG4-MB6.chr2L.29.011	unknown ID	-
+DMG4-MB6.chr2L.35.006	unknown ID	-
+CG31563	FBgn0051563	CG31563
+MIP08562	FBcl0702416	MIP08562
+chrU_6986092_6986298.0	unknown ID	-
+chr3L_20145407_20145668.0	unknown ID	-
+HL03538	FBcl0148801	HL03538
+chr3L_18686588_18686941.0	unknown ID	-
+chr2R_16597524_16598224.0	unknown ID	-
+chr2R_4655696_4656286.0	unknown ID	-
+chr3L_17509183_17510009.0	unknown ID	-
+chr2R_9378377_9378939.0	unknown ID	-
+Ih	FBgn0263397	Ih
+chr3LHet_270358_272647.0	unknown ID	-
+Pde1c	FBgn0264815	Pde1c
+MB8.chr2L.pasa.893	unknown ID	-
+chr2R_15784985_15786246.0	unknown ID	-
+chr3R_6216827_6217291.0	unknown ID	-
+MIP07458	FBcl0740438	MIP07458
+MIP08075	FBcl0702365	MIP08075
+MIP09644	FBcl0703727	MIP09644
+MIP16134	FBcl0723487	MIP16134
+MIP20174	FBcl0740329	MIP20174
+MIP20187	FBcl0740388	MIP20187
+MIP20281	FBcl0740437	MIP20281
+MIP20436	FBcl0723040	MIP20436
+MIP22396	FBcl0740444	MIP22396
+chr3L_19281099_19281385.0	unknown ID	-
+chr3LHet_770153_770663.0	unknown ID	-
+chr3R_21681946_21682279.0	unknown ID	-
+psnoRNA:CG32479-a	unknown ID	-
+CG6051	FBgn0039492	CG6051
+chr2R_3068327_3068543.0	unknown ID	-
+chr3L_13210339_13210766.0	unknown ID	-
+chr2R_7805395_7806571.0	unknown ID	-
+chr2R_6619302_6619942.0	unknown ID	-
+chr3R_10083762_10084103.0	unknown ID	-
+MIP22332	FBcl0740299	MIP22332
+chr3L_2009590_2010824.0	unknown ID	-
+chr3L_20983767_20983982.0	unknown ID	-
+chr2R_16180071_16180565.0	unknown ID	-
+LD30889	FBcl0163783	LD30889
+MB8.chr2LHet.pasa.19	unknown ID	-
+chr3L_7070287_7070673.0	unknown ID	-
+snRNA:U3:22A	unknown ID	-
+MIP20390	FBcl0723039	MIP20390
+chr3L_16188719_16189256.0	unknown ID	-
+chr3L_21693967_21694588.0	unknown ID	-
+chr3L_7763493_7764700.0	unknown ID	-
+CG18186	FBgn0034255	Oxp
+chr3L_20914256_20915252.0	unknown ID	-
+chr2R_13138383_13138771.0	unknown ID	-
+CR42491	FBgn0259993	lncRNA:CR42491
+chr3R_1791812_1792127.0	unknown ID	-
+chr3L_10474525_10474864.0	unknown ID	-
+chr3L_22344129_22344456.0	unknown ID	-
+chr2R_9715482_9715710.0	unknown ID	-
+chr2R_14133631_14134372.0	unknown ID	-
+LP05669	FBcl0189638	LP05669
+chr3L_13317392_13318146.0	unknown ID	-
+chrX_6890885_6891341.0	unknown ID	-
+IP06332	FBcl0293395	IP06332
+CG12424	FBgn0033987	ckn
+chr3L_2740420_2740695.0	unknown ID	-
+CG12842	FBgn0033131	CR12842
+chr3L_10325582_10326440.0	unknown ID	-
+chr3R_5923283_5923528.0	unknown ID	-
+chr3L_21690842_21691131.0	unknown ID	-
+chr3L_11892907_11893383.0	unknown ID	-
+CG15234	FBgn0040673	CG15234
+chr3L_503533_503929.0	unknown ID	-
+chr3R_12680865_12681530.0	unknown ID	-
+CG18622	FBgn0038460	CG18622
+chr3L_22630773_22631038.0	unknown ID	-
+CG30115	FBgn0050115	GEFmeso
+chr3L_6297407_6298622.0	unknown ID	-
+chrX_21077949_21078492.0	unknown ID	-
+chr2R_4962594_4962825.0	unknown ID	-
+chr3L_18070424_18071184.0	unknown ID	-
+CG42524	FBgn0260429	CG42524
+chr3R_15278155_15279093.0	unknown ID	-
+chr3L_19232947_19233244.0	unknown ID	-
+MIP10903	FBcl0718795	MIP10903
+chr3L_15559614_15559828.0	unknown ID	-
+chr3R_8690922_8691584.0	unknown ID	-
+chr3L_6768308_6768575.0	unknown ID	-
+CG9897	FBgn0034807	CG9897
+chr2R_11200326_11200570.0	unknown ID	-
+chr2R_11200670_11201286.0	unknown ID	-
+chr2R_11965748_11966160.0	unknown ID	-
+chr2R_12187632_12189733.0	unknown ID	-
+chr2R_12253214_12253455.0	unknown ID	-
+chr2R_12699790_12700474.0	unknown ID	-
+chr2R_12723495_12724001.0	unknown ID	-
+chr2R_12851797_12852429.0	unknown ID	-
+chr2R_13076351_13076653.0	unknown ID	-
+chr2R_13076780_13077450.0	unknown ID	-
+chr2R_13103987_13104580.0	unknown ID	-
+chr2R_13141333_13142601.0	unknown ID	-
+chr2R_13486501_13486750.0	unknown ID	-
+chr2R_13584824_13585247.0	unknown ID	-
+chr2R_14083913_14084231.0	unknown ID	-
+chr2R_1497138_1497448.0	unknown ID	-
+chr2R_15243728_15244020.0	unknown ID	-
+chr2R_15544005_15544647.0	unknown ID	-
+chr2R_15675483_15675942.0	unknown ID	-
+chr2R_15955909_15956695.0	unknown ID	-
+chr2R_16038129_16038498.0	unknown ID	-
+chr2R_16610171_16610584.0	unknown ID	-
+chr2R_17434165_17434589.0	unknown ID	-
+chr2R_19064950_19065224.0	unknown ID	-
+chr2R_20984061_20984366.0	unknown ID	-
+chr2R_4118017_4118390.0	unknown ID	-
+chr2R_5132897_5133337.0	unknown ID	-
+chr2R_5545323_5545698.0	unknown ID	-
+chr2R_6253906_6254145.0	unknown ID	-
+chr3RHet_1825435_1825760.0	unknown ID	-
+chr2R_7592327_7592857.0	unknown ID	-
+chr2R_7972796_7975654.0	unknown ID	-
+chr2R_7993528_7993855.0	unknown ID	-
+chr2R_8121536_8122157.0	unknown ID	-
+chr2R_8664864_8665279.0	unknown ID	-
+chr2R_8666021_8666221.0	unknown ID	-
+chr2R_9375638_9375879.0	unknown ID	-
+chr2R_9375957_9376421.0	unknown ID	-
+MIP22374	FBcl0740413	MIP22374
+CR30066	FBgn0050066	CR30066
+spin	FBgn0086676	spin
+spin	FBal0150807	Fas2[spin]
+DMG4-MB6.chr2R.26.007	unknown ID	-
+DMG6-MB6.chr2R.20.008	FBgn0262815	CR43186
+DMG6-MB6.chr2R.20.008	FBgn0262815	CR43186
+DMG8-chr2R.36.016	unknown ID	-
+chr3R_19297539_19298083.0	unknown ID	-
+Hr46	FBgn0000448	Hr3
+chr3L_13284742_13284965.0	unknown ID	-
+chr3L_18468394_18468792.0	unknown ID	-
+chr3LHet_663455_664028.0	unknown ID	-
+chr3L_10287213_10288342.0	unknown ID	-
+lola	FBgn0283521	lola
+MIP07065	FBcl0740455	MIP07065
+MIP20324	FBcl0740303	MIP20324
+MIP22723	FBcl0740412	MIP22723
+chr3R_6177148_6177654.0	unknown ID	-
+chr3R_13464605_13465373.0	unknown ID	-
+chr3R_5921487_5921735.0	unknown ID	-
+chr2RHet_567653_568005.0	unknown ID	-
+chr3L_5263223_5263436.0	unknown ID	-
+psnoRNA:dek-a	unknown ID	-
+chr3L_7381594_7382056.0	unknown ID	-
+eIF-4B	FBgn0020660	eIF4B
+chr3L_7862229_7862433.0	unknown ID	-
+chr3LHet_664192_664694.0	unknown ID	-
+Vha16	FBgn0262736	Vha16-1
+CG40733	FBgn0085512	RYa
+CG41243	FBgn0085570	CR41243
+chr2RHet_1436985_1437320.0	unknown ID	-
+CR41510	FBgn0085793	CR41510
+chr3LHet_2242462_2242711.0	unknown ID	-
+chr3R_19234351_19235347.0	unknown ID	-
+CG41511	FBgn0085661	CG41511
+MIP12583	FBcl0718544	MIP12583
+chr3R_10060570_10062460.0	unknown ID	-
+CG13932	FBgn0035259	CG13932
+chr3L_16705298_16705560.0	unknown ID	-
+CG17233	FBgn0036958	CG17233
+CG17742	FBgn0265296	Dscam2
+CG32276	FBgn0047135	CG32276
+chr3L_12584694_12585180.0	unknown ID	-
+chr3L_19553863_19554443.0	unknown ID	-
+MIP22466	FBcl0740417	MIP22466
+chr3R_8440047_8440942.0	unknown ID	-
+chrX_8813749_8814164.0	unknown ID	-
+chr3L_14127816_14128273.0	unknown ID	-
+chr3L_10319682_10320739.0	unknown ID	-
+chr3L_10341290_10352622.0	unknown ID	-
+chr3L_10777630_10778479.0	unknown ID	-
+chr3L_10952312_10953111.0	unknown ID	-
+chr3L_11342529_11343003.0	unknown ID	-
+chr3R_868348_868743.0	unknown ID	-
+chr3L_20145922_20146263.0	unknown ID	-
+chr3L_13074711_13075073.0	unknown ID	-
+chr3L_13222748_13223162.0	unknown ID	-
+chr3L_13336607_13337501.0	unknown ID	-
+chr3L_14654658_14654949.0	unknown ID	-
+chr3L_15091617_15091865.0	unknown ID	-
+chr3L_15094261_15095048.0	unknown ID	-
+chr3L_15183491_15184120.0	unknown ID	-
+chr3L_16814552_16814940.0	unknown ID	-
+chr3L_17032435_17032655.0	unknown ID	-
+chr3L_17996762_17998192.0	unknown ID	-
+chr3L_18052907_18053374.0	unknown ID	-
+chr3L_18200060_18200362.0	unknown ID	-
+chr3L_18471894_18472343.0	unknown ID	-
+chr3L_19968880_19969189.0	unknown ID	-
+chr3L_20943480_20943883.0	unknown ID	-
+chr3L_20980311_20980736.0	unknown ID	-
+chr3L_21168202_21168402.0	unknown ID	-
+chr3L_21690430_21690653.0	unknown ID	-
+chr3L_22491399_22491921.0	unknown ID	-
+chr3L_22785764_22786486.0	unknown ID	-
+chr3L_22889238_22889835.0	unknown ID	-
+chr3L_3251064_3251350.0	unknown ID	-
+chr3L_4050495_4050966.0	unknown ID	-
+chr3L_4980866_4981604.0	unknown ID	-
+chr3L_6808520_6810090.0	unknown ID	-
+chr3L_6858575_6859581.0	unknown ID	-
+chr3L_6890810_6891782.0	unknown ID	-
+chr3L_7380903_7381373.0	unknown ID	-
+chr3L_812718_814712.0	unknown ID	-
+chr3L_8158228_8158590.0	unknown ID	-
+chr3L_9248279_9248513.0	unknown ID	-
+MIP19078	FBcl0723095	MIP19078
+MIP19078	FBgn0263503	lncRNA:CR43492
+chr3R_5923588_5923821.0	unknown ID	-
+chrX_19956292_19956783.0	unknown ID	-
+chr3R_11832108_11832644.0	unknown ID	-
+mbf1	FBgn0262732	mbf1
+MIP07488	FBcl0702438	MIP07488
+MIP16113	FBcl0723488	MIP16113
+CG11841	FBgn0039628	CG11841
+chr3R_22519843_22520719.0	unknown ID	-
+psnoRNA:tudor-SN-a	unknown ID	-
+snoRNA:Psi28S-2566	FBgn0086661	snoRNA:Psi28S-2566
+snRNA:U11	FBgn0083987	snRNA:U11
+chr3LHet_2236180_2236548.0	unknown ID	-
+chr3LHet_2279365_2280426.0	unknown ID	-
+chr3LHet_661481_661839.0	unknown ID	-
+chr3LHet_916419_916659.0	unknown ID	-
+chr3R_19224957_19225508.0	unknown ID	-
+chr3R_5919494_5921311.0	unknown ID	-
+chr3R_16517132_16517339.0	unknown ID	-
+chr3R_6215619_6216520.0	unknown ID	-
+chr3R_963755_963981.0	unknown ID	-
+chr3R_5959336_5959604.0	unknown ID	-
+chr3R_96077_96286.0	unknown ID	-
+CG31079	FBgn0051079	CG31079
+chr3R_8444596_8445154.0	unknown ID	-
+DMG4-MB6.chrX.34.012	unknown ID	-
+CG31522	FBgn0051522	CG31522
+chr3R_9132807_9134215.0	unknown ID	-
+chr3R_23237522_23237936.0	unknown ID	-
+chrX_18121570_18122476.0	unknown ID	-
+CG7720	FBgn0038652	CG7720
+MIP20230	FBcl0740321	MIP20230
+chr3R_26958055_26958773.0	unknown ID	-
+chr3R_10247835_10248287.0	unknown ID	-
+chr3R_10352864_10353705.0	unknown ID	-
+chr3R_10829515_10830733.0	unknown ID	-
+chr3R_11636330_11636555.0	unknown ID	-
+chr3R_12003807_12004044.0	unknown ID	-
+chr3R_12032088_12032346.0	unknown ID	-
+chr3R_12674204_12674624.0	unknown ID	-
+chr3R_12701866_12702316.0	unknown ID	-
+chr3R_15017725_15018294.0	unknown ID	-
+chr3R_16516830_16517106.0	unknown ID	-
+chr3R_18866474_18867134.0	unknown ID	-
+chr3R_19197767_19198385.0	unknown ID	-
+chr3R_19256854_19257188.0	unknown ID	-
+chr3R_20009125_20009581.0	unknown ID	-
+chr3R_20265625_20266208.0	unknown ID	-
+chr3R_23158857_23159153.0	unknown ID	-
+chr3R_23363271_23363640.0	unknown ID	-
+chr3R_23489164_23489492.0	unknown ID	-
+chr3R_24602543_24603586.0	unknown ID	-
+chr3R_25438076_25442069.0	unknown ID	-
+chr3R_2703158_2710974.0	unknown ID	-
+chr3R_3152145_3152998.0	unknown ID	-
+chr3R_3238464_3239186.0	unknown ID	-
+chr3R_3293660_3294423.0	unknown ID	-
+chr3R_5922546_5922992.0	unknown ID	-
+chr3R_6288371_6290751.0	unknown ID	-
+chr3R_7136370_7137006.0	unknown ID	-
+chr3R_8094630_8095952.0	unknown ID	-
+chr3R_8122720_8122934.0	unknown ID	-
+chr3R_8125168_8125482.0	unknown ID	-
+chr3R_8358465_8359520.0	unknown ID	-
+chr3R_8756452_8757039.0	unknown ID	-
+chr3R_9144702_9145033.0	unknown ID	-
+chr3R_9264315_9264953.0	unknown ID	-
+chr3R_9991708_9992662.0	unknown ID	-
+CR31339	FBgn0051339	CR31339
+DMG2-MB6.chr3R.24.043	FBgn0039530	Tusp
+chrX_10334663_10335155.0	unknown ID	-
+LD10401	FBcl0157697	LD10401
+LP03188	FBcl0187891	LP03188
+MIP09619	FBcl0702297	MIP09619
+MIP20294	FBcl0740339	MIP20294
+MIP20513	FBcl0740307	MIP20513
+MIP20603	FBcl0740217	MIP20603
+MIP20618	FBcl0740349	MIP20618
+mrt	FBgn0039507	mrt
+Nep2	FBgn0027570	Nep2
+Pli	FBgn0025574	Pli
+DMG5-MB6.chrU.9.032	unknown ID	-
+Rfx	FBgn0020379	Rfx
+chr3RHet_1311135_1311439.0	unknown ID	-
+chr3RHet_1378989_1379226.0	unknown ID	-
+chr3RHet_1707871_1708346.0	unknown ID	-
+chr3RHet_1825840_1826355.0	unknown ID	-
+chr3RHet_2374427_2374767.0	unknown ID	-
+chr3RHet_2470554_2471228.0	unknown ID	-
+chr3RHet_532355_532621.0	unknown ID	-
+chr4_681672_682113.0	unknown ID	-
+chr4_969126_969393.0	unknown ID	-
+chrX_3080348_3081148.0	unknown ID	-
+chrU_3545354_3545635.0	unknown ID	-
+chrU_3595881_3596272.0	unknown ID	-
+chrU_4695172_4696020.0	unknown ID	-
+chrU_5560609_5561496.0	unknown ID	-
+chrU_6732348_6732566.0	unknown ID	-
+chrU_7360713_7361059.0	unknown ID	-
+chrU_8949582_8949950.0	unknown ID	-
+chrU_9004615_9004819.0	unknown ID	-
+CR40503	FBgn0085738	CR40503
+CR40508	FBgn0085740	CR40508
+CR40528	FBgn0085741	CR40528
+CR40565	FBgn0085745	CR40565
+CR40572	FBgn0085747	CR40572
+CR40573	FBgn0085748	CR40573
+CR40574	FBgn0085749	CR40574
+CR40581	FBgn0085750	CR40581
+CR40582	FBgn0085751	CR40582
+CR40596	FBgn0085753	28SrRNA-Psi:CR40596
+CR40597	FBgn0085754	CR40597
+CR40640	FBgn0085759	CR40640
+CR40641	FBgn0085760	CR40641
+CR40642	FBgn0085761	CR40642
+CR40668	FBgn0085764	CR40668
+CR40679	FBgn0085766	CR40679
+CR40766	FBgn0085773	CR40766
+CR40779	FBgn0085774	CR40779
+CR40962	FBgn0085778	CR40962
+CR41540	FBgn0085797	CR41540
+CR41544	FBgn0085799	CR41544
+CR41591	FBgn0085808	CR41591
+CR41605	FBgn0085815	CR41605
+CR41606	FBgn0085816	CR41606
+CR41613	FBgn0085822	CR41613
+CR42195	FBgn0085828	CR42195
+Actn	FBgn0000667	Actn
+chrX_13197893_13198567.0	unknown ID	-
+CG15602	FBgn0030694	CG15602
+chrX_6902876_6903286.0	unknown ID	-
+CG32767	FBgn0052767	CG32767
+CG4068	FBgn0266000	CG44774
+chrX_10160374_10160651.0	unknown ID	-
+chrX_10330058_10330589.0	unknown ID	-
+chrX_10729083_10730201.0	unknown ID	-
+chrX_11312681_11312960.0	unknown ID	-
+chrX_11709599_11709837.0	unknown ID	-
+chrX_11727797_11728232.0	unknown ID	-
+chrX_13196900_13197152.0	unknown ID	-
+chrX_13275077_13275430.0	unknown ID	-
+chrX_13277761_13278162.0	unknown ID	-
+chrX_13740246_13742712.0	unknown ID	-
+chrX_13882587_13882898.0	unknown ID	-
+chrX_15214307_15214607.0	unknown ID	-
+chrX_1531825_1532171.0	unknown ID	-
+chrX_1533577_1534629.0	unknown ID	-
+chrX_1539850_1540090.0	unknown ID	-
+chrX_1547632_1547887.0	unknown ID	-
+chrX_15530378_15531098.0	unknown ID	-
+chrX_17272485_17273058.0	unknown ID	-
+chrX_17447980_17455213.0	unknown ID	-
+chrX_18805953_18806194.0	unknown ID	-
+chrX_2025760_2025991.0	unknown ID	-
+chrX_20381233_20381443.0	unknown ID	-
+chrX_20788434_20796034.0	unknown ID	-
+chrX_20794723_20794981.0	unknown ID	-
+chrX_22168084_22168430.0	unknown ID	-
+chrX_3968951_3969506.0	unknown ID	-
+chrX_531653_531971.0	unknown ID	-
+chrX_5706348_5706650.0	unknown ID	-
+chrX_5725937_5726234.0	unknown ID	-
+chrX_6485101_6485457.0	unknown ID	-
+chrX_6531185_6531563.0	unknown ID	-
+chrX_6759212_6759693.0	unknown ID	-
+chrX_6861261_6861499.0	unknown ID	-
+chrX_6902035_6902838.0	unknown ID	-
+chrX_7157235_7157740.0	unknown ID	-
+chrX_7157841_7158199.0	unknown ID	-
+chrX_7200090_7200503.0	unknown ID	-
+chrX_7451422_7451891.0	unknown ID	-
+chrX_7609180_7609398.0	unknown ID	-
+chrX_8818013_8818461.0	unknown ID	-
+chrX_8956944_8957266.0	unknown ID	-
+chrX_8959597_8959883.0	unknown ID	-
+chrX_9034277_9034646.0	unknown ID	-
+chrX_9141950_9142262.0	unknown ID	-
+GM31309	FBcl0146377	GM31309
+LP05425	FBcl0188351	LP05425
+MIP22620	FBcl0740416	MIP22620
+rok	FBgn0026181	Rok
+up	FBgn0004169	up
+up	FBal0017627	up[1]
+chrXHet_164557_165493.0	unknown ID	-
+Akh	FBgn0004552	Akh
+CG3436	FBgn0031229	CG3436
+CG11686	FBgn0040551	CG11686
+CG12853	FBgn0040747	CG12853
+DMG8-chr3R.14.009	FBgn0037997	CG14742
+DMG8-chr3R.14.009	FBgn0037997	CG14742
+CG15213	FBgn0040843	CG15213
+Smr	FBgn0265523	Smr
+CG1598	FBgn0033191	CG1598
+CG17514	FBgn0287182	l(3)80Fj
+CG17514	FBgn0287182	l(3)80Fj
+CG17737	FBgn0035423	eIF1
+CG30423	FBgn0050423	CG30423
+CG31313	FBgn0051313	CG31313
+CG31468	FBgn0047351	CG31468
+CG31526	FBgn0051526	lncRNA:CR31526
+noncoding_1796	unknown ID	-
+CG31639	FBgn0051639	CG31639
+CG32163	FBgn0052163	CG32163
+CG32276	FBgn0047135	CG32276
+CG16971	FBgn0053229	CG33229
+CG16971	FBgn0262109	lncRNA:CR42862
+CG16971	FBgn0053229	CG33229
+CG16971	FBgn0262109	lncRNA:CR42862
+CG33777	FBgn0053777	CG33777
+CG34007	FBgn0054007	CG34007
+CG34212	FBgn0085241	CG34212
+CG34248	FBgn0085277	CG34248
+CG34300	FBgn0085329	CG34300
+CG34301	FBgn0085330	CG34301
+CG34301	FBgn0085330	CG34301
+CG42581	FBgn0260871	CG42581
+DMG8-chr3R.6.013	FBgn0261508	CG42656
+MIP22495	FBcl0740451	MIP22495
+MIP22495	FBgn0261849	CG42781
+chr3L_2003237_2005720.0	unknown ID	-
+chr2R_20696695_20697629.0	FBgn0262098	CG42851
+DMG4-MB6.chr3L.29.003	unknown ID	-
+MB8.chr2L.pasa.4	unknown ID	-
+MB8.chr2L.pasa.4	unknown ID	-
+DMG6-MB6.chr3L.15.014	unknown ID	-
+chr2R_14750100_14750772.0	FBgn0262479	CG43069
+DMG8-chr2R.27.007	unknown ID	-
+DMG5-MB6.chrX.8.004	unknown ID	-
+chr3L_13275382_13277690.0	unknown ID	-
+chr3L_53822_54840.0	unknown ID	-
+MB8.chr3L.pasa.50	FBgn0262788	CG43169
+MIP03715	FBcl0701910	MIP03715
+MIP03715	FBgn0262837	CG43201
+MIP03715	FBgn0262790	CG43171
+DMG8-chr2L.11.009	unknown ID	-
+chr2R_6973810_6974365.0	unknown ID	-
+chr2R_8318110_8318385.0	FBgn0262840	CG43204
+MB6.chr3R.pasa.10072	FBgn0262844	CG43208
+DMG8-chr2L.31.003	FBgn0262856	CG43220
+DMG8-chr2L.31.003	FBgn0262857	CG43221
+DMG6-MB6.chr2L.13.007	unknown ID	-
+chr2L_17914484_17915016.0	unknown ID	-
+chrX_18515535_18515919.0	unknown ID	-
+chr2R_14917501_14918103.0	unknown ID	-
+MIP22329	FBcl0740356	MIP22329
+MIP22670	FBcl0740421	MIP22670
+chr3L_19046011_19046478.0	unknown ID	-
+MIP20232	FBcl0740355	MIP20232
+IP18725	FBcl0319935	IP18725
+chr3L_15046127_15046499.0	unknown ID	-
+chr3L_21114820_21116455.0	unknown ID	-
+chr3R_15104419_15105499.0	unknown ID	-
+chr2L_11663230_11663806.0	unknown ID	-
+CG6000	FBgn0039145	CG6000
+CG6000	FBgn0039145	CG6000
+CG6503	FBgn0040606	CG6503
+CG6762	FBgn0030876	CG6762
+Lasp	FBgn0063485	Lasp
+Dro	FBgn0010388	Dro
+Dup99B	FBgn0250832	Dup99B
+Eig71Ea	FBgn0004588	Eig71Ea
+Mlp60A	FBgn0259209	Mlp60A
+Mlp60A	FBgn0259209	Mlp60A
+Mlp60A	FBgn0259209	Mlp60A
+MtnA	FBgn0002868	MtnA
+MtnA	FBgn0002869	MtnB
+MtnD	FBgn0053192	MtnD
+Neb-cGP	FBgn0083167	Neb-cGP
+Nplp3	FBgn0042201	Nplp3
+mod(mdg4)	FBgn0002781	mod(mdg4)
+l(2)05510	FBgn0028622	qsm
+l(2)05510	FBal0101337	qsm[05510]
+RpL38	FBgn0040007	RpL38
+Sfp36F	FBgn0261057	Sfp36F
+Sfp93F	FBgn0261060	Sfp93F
+Acp54A1	FBgn0083936	Acp54A1
+BobA	FBgn0040487	BobA
+Acer	FBgn0016122	Acer
+CG10433	FBgn0034638	CG10433
+CG10625	FBgn0035612	frm
+CG11368	FBgn0040923	CG11368
+CG11455	FBgn0031228	ND-15
+CG12012	FBgn0035444	CG12012
+CG12158	FBgn0040775	CG12158
+CG12929	FBgn0033429	CG12929
+CG13065	FBgn0036590	CG13065
+CG13117	FBgn0032140	CG13117
+CG13171	FBgn0033701	CG13171
+Acp70A	FBgn0003034	SP
+Tina-1	FBgn0035083	Tina-1
+CG14871	FBgn0038343	Trissin
+VhaM9_7-2	unknown ID	-
+VhaM9_7-2	unknown ID	-
+capricious	FBgn0023095	caps
+CG34308	FBgn0085337	CG34308
+CG34310	FBgn0085339	CG34310
+noncoding_12567	unknown ID	-
+noncoding_7598	unknown ID	-
+noncoding_4110	FBgn0023388	Dap160
+noncoding_1587	unknown ID	-
+noncoding_949	unknown ID	-
+noncoding_6766	unknown ID	-
+noncoding_7185	unknown ID	-
+noncoding_13842	unknown ID	-
+noncoding_3271	unknown ID	-
+noncoding_10408	unknown ID	-
+noncoding_5166	unknown ID	-
+noncoding_3620	unknown ID	-
+noncoding_5362	unknown ID	-
+noncoding_4493	unknown ID	-
+noncoding_14054	unknown ID	-
+noncoding_8782	unknown ID	-
+noncoding_3994	unknown ID	-
+noncoding_10153	unknown ID	-
+noncoding_14842	unknown ID	-
+noncoding_3727	unknown ID	-
+noncoding_6875	unknown ID	-
+noncoding_22131	unknown ID	-
+noncoding_869	unknown ID	-
+noncoding_17759	unknown ID	-
+noncoding_5391	unknown ID	-
+noncoding_1106	unknown ID	-
+noncoding_1206	unknown ID	-
+noncoding_1271	unknown ID	-
+noncoding_1327	unknown ID	-
+noncoding_1669	unknown ID	-
+noncoding_1669	unknown ID	-
+noncoding_1968	unknown ID	-
+noncoding_229	unknown ID	-
+noncoding_2470	unknown ID	-
+noncoding_2470	unknown ID	-
+noncoding_2788	unknown ID	-
+noncoding_2854	unknown ID	-
+noncoding_3077	unknown ID	-
+noncoding_3470	unknown ID	-
+noncoding_3534	unknown ID	-
+noncoding_3548	unknown ID	-
+noncoding_3585	unknown ID	-
+noncoding_3672	unknown ID	-
+noncoding_3775	unknown ID	-
+noncoding_12207	unknown ID	-
+noncoding_3951	unknown ID	-
+noncoding_4006	unknown ID	-
+noncoding_4006	unknown ID	-
+noncoding_4006	unknown ID	-
+noncoding_4219	unknown ID	-
+noncoding_4261	unknown ID	-
+noncoding_427	unknown ID	-
+noncoding_4324	unknown ID	-
+noncoding_67	unknown ID	-
+noncoding_691	unknown ID	-
+noncoding_704	unknown ID	-
+noncoding_781	unknown ID	-
+noncoding_928	unknown ID	-
+noncoding_932	unknown ID	-
+noncoding_934	unknown ID	-
+noncoding_3470	unknown ID	-
+noncoding_3620	unknown ID	-
+noncoding_14166	unknown ID	-
+noncoding_4454	unknown ID	-
+noncoding_23539	unknown ID	-
+noncoding_6657	unknown ID	-
+noncoding_12505	unknown ID	-
+noncoding_21234	unknown ID	-
+noncoding_13966	unknown ID	-
+noncoding_20996	unknown ID	-
+noncoding_6408	unknown ID	-
+noncoding_13481	unknown ID	-
+noncoding_10733	unknown ID	-
+noncoding_4380	unknown ID	-
+noncoding_4393	unknown ID	-
+noncoding_4440	unknown ID	-
+noncoding_4618	unknown ID	-
+noncoding_4677	unknown ID	-
+noncoding_4818	unknown ID	-
+noncoding_4936	unknown ID	-
+noncoding_4991	unknown ID	-
+noncoding_5059	unknown ID	-
+noncoding_5600	unknown ID	-
+noncoding_5899	unknown ID	-
+noncoding_5913	unknown ID	-
+noncoding_6552	unknown ID	-
+noncoding_6597	unknown ID	-
+noncoding_6785	unknown ID	-
+noncoding_6972	unknown ID	-
+noncoding_6972	unknown ID	-
+noncoding_6972	unknown ID	-
+noncoding_7217	unknown ID	-
+noncoding_7484	unknown ID	-
+noncoding_8958	unknown ID	-
+noncoding_9077	unknown ID	-
+noncoding_9183	unknown ID	-
+noncoding_9409	unknown ID	-
+noncoding_10027	unknown ID	-
+noncoding_10374	unknown ID	-
+noncoding_11198	unknown ID	-
+noncoding_15050	unknown ID	-
+noncoding_21155	unknown ID	-
+noncoding_9454	FBgn0261505	CR42653
+noncoding_12628	unknown ID	-
+noncoding_19262	unknown ID	-
+noncoding_12328	unknown ID	-
+noncoding_11565	unknown ID	-
+noncoding_24686	unknown ID	-
+noncoding_14406	unknown ID	-
+noncoding_10229	unknown ID	-
+noncoding_10359	unknown ID	-
+noncoding_10431	unknown ID	-
+noncoding_10708	unknown ID	-
+noncoding_10769	unknown ID	-
+noncoding_10964	unknown ID	-
+noncoding_11126	unknown ID	-
+noncoding_11257	unknown ID	-
+noncoding_11565	unknown ID	-
+noncoding_12152	unknown ID	-
+noncoding_12277	unknown ID	-
+noncoding_13289	unknown ID	-
+noncoding_13313	unknown ID	-
+noncoding_13405	unknown ID	-
+noncoding_13793	unknown ID	-
+noncoding_14099	unknown ID	-
+noncoding_14166	unknown ID	-
+noncoding_14230	unknown ID	-
+noncoding_14288	unknown ID	-
+noncoding_14303	unknown ID	-
+noncoding_14317	unknown ID	-
+noncoding_9526	unknown ID	-
+noncoding_9693	unknown ID	-
+noncoding_14335	unknown ID	-
+noncoding_14402	unknown ID	-
+noncoding_19807	unknown ID	-
+noncoding_20815	unknown ID	-
+noncoding_14561	unknown ID	-
+noncoding_14562	unknown ID	-
+noncoding_14566	unknown ID	-
+noncoding_14584	unknown ID	-
+noncoding_14644	unknown ID	-
+noncoding_14695	unknown ID	-
+noncoding_14931	unknown ID	-
+noncoding_14993	unknown ID	-
+noncoding_14993	unknown ID	-
+noncoding_15031	unknown ID	-
+noncoding_15099	unknown ID	-
+noncoding_15099	unknown ID	-
+noncoding_15156	unknown ID	-
+noncoding_15272	unknown ID	-
+noncoding_15416	unknown ID	-
+noncoding_15421	unknown ID	-
+noncoding_15501	unknown ID	-
+noncoding_15514	unknown ID	-
+noncoding_15610	unknown ID	-
+noncoding_16091	unknown ID	-
+noncoding_16330	unknown ID	-
+noncoding_16341	unknown ID	-
+noncoding_16647	unknown ID	-
+noncoding_16730	unknown ID	-
+noncoding_16824	unknown ID	-
+noncoding_17085	unknown ID	-
+noncoding_17171	unknown ID	-
+noncoding_17701	unknown ID	-
+noncoding_17716	unknown ID	-
+noncoding_17730	unknown ID	-
+noncoding_17950	unknown ID	-
+noncoding_17964	unknown ID	-
+noncoding_18124	FBgn0267448	asRNA:CR45798
+noncoding_18306	unknown ID	-
+noncoding_18479	unknown ID	-
+noncoding_18559	unknown ID	-
+noncoding_18961	unknown ID	-
+noncoding_19171	unknown ID	-
+noncoding_19633	unknown ID	-
+noncoding_19706	unknown ID	-
+noncoding_19949	unknown ID	-
+noncoding_20096	unknown ID	-
+noncoding_20201	unknown ID	-
+noncoding_20271	unknown ID	-
+noncoding_15421	unknown ID	-
+noncoding_20453	unknown ID	-
+noncoding_20454	unknown ID	-
+noncoding_20511	unknown ID	-
+noncoding_20788	unknown ID	-
+noncoding_20813	unknown ID	-
+noncoding_20818	unknown ID	-
+noncoding_20846	unknown ID	-
+noncoding_20985	unknown ID	-
+noncoding_20990	unknown ID	-
+noncoding_21023	unknown ID	-
+noncoding_21031	unknown ID	-
+noncoding_21034	unknown ID	-
+noncoding_21042	unknown ID	-
+noncoding_21057	unknown ID	-
+noncoding_21076	unknown ID	-
+noncoding_21080	unknown ID	-
+noncoding_21081	unknown ID	-
+noncoding_21090	unknown ID	-
+noncoding_21138	unknown ID	-
+noncoding_21155	unknown ID	-
+noncoding_21234	unknown ID	-
+noncoding_21360	unknown ID	-
+noncoding_21739	unknown ID	-
+noncoding_21795	unknown ID	-
+noncoding_22240	unknown ID	-
+noncoding_22284	unknown ID	-
+noncoding_22475	unknown ID	-
+noncoding_22687	unknown ID	-
+noncoding_22888	unknown ID	-
+noncoding_23225	unknown ID	-
+noncoding_23260	unknown ID	-
+noncoding_23302	unknown ID	-
+noncoding_23377	unknown ID	-
+noncoding_23729	unknown ID	-
+noncoding_24353	unknown ID	-
+noncoding_24410	unknown ID	-
+noncoding_24742	unknown ID	-
+noncoding_24744	unknown ID	-
+noncoding_24859	unknown ID	-
+noncoding_24875	unknown ID	-
+noncoding_24897	unknown ID	-
+noncoding_24933	unknown ID	-
+noncoding_25029	unknown ID	-
+noncoding_25047	unknown ID	-
+noncoding_25107	unknown ID	-
+noncoding_25221	unknown ID	-
+noncoding_5243	unknown ID	-
+noncoding_7734	unknown ID	-
+noncoding_21282	unknown ID	-
+noncoding_24642	unknown ID	-
+noncoding_1796	unknown ID	-
+noncoding_DMG2-MB6.chr2L.17.058	unknown ID	-
+noncoding_DMG2-MB6.chr2L.17.058	unknown ID	-
+noncoding_DMG2-MB6.chr2L.17.058	unknown ID	-
+noncoding_DMG2-MB6.chr2L.17.058	unknown ID	-
+noncoding_DMG2-MB6.chr2L.17.058	unknown ID	-
+noncoding_13497	unknown ID	-
+noncoding_13497	unknown ID	-
+noncoding_14337	unknown ID	-
+noncoding_14406	unknown ID	-
+noncoding_21279	unknown ID	-
+noncoding_13568	unknown ID	-
+noncoding_15268	unknown ID	-
+noncoding_7347	unknown ID	-
+noncoding_5744	FBgn0262791	CG43172
+noncoding_13291	unknown ID	-
+noncoding_13291	unknown ID	-
+noncoding_5956	FBgn0262817	CG43188
+noncoding_17732	FBgn0262839	CG43203
+noncoding_17732	FBgn0262839	CG43203
+noncoding_3992	unknown ID	-
+noncoding_13303	unknown ID	-
+noncoding_2945	unknown ID	-
+noncoding_13509	unknown ID	-
+noncoding_24409	unknown ID	-
+noncoding_21784	unknown ID	-
+noncoding_23203	unknown ID	-
+noncoding_11831	unknown ID	-
+noncoding_1515	unknown ID	-
+noncoding_21811	unknown ID	-
+Uhg3	FBgn0259936	Uhg3
+pncr016:2R	FBgn0062961	lncRNA:CR33942
+chr3L_127329_127689.0	unknown ID	-
+CG17567	FBgn0267726	CG46059
+CG17567	FBgn0040994	CR17567
+CG17567	FBgn0267726	CG46059
+CG17567	FBgn0040994	CR17567
+CG17567	FBgn0267726	CG46059
+CG17567	FBgn0040994	CR17567
+alphagamma-element:CR32865	FBgn0052865	lncRNA:alphagamma-element:CR32865
+Su(Ste):CR42432	FBgn0259863	Su(Ste):CR42432
+Su(Ste):CR42441	FBgn0259872	CR42441
+Uhg2	FBgn0063449	Uhg2
+Uhg3	FBgn0259936	Uhg3
+CR42491	FBgn0259993	lncRNA:CR42491
+CR41601	FBgn0085812	lncRNA:CR41601
+CG9284	FBgn0046297	lncRNA:CR9284
+CG9284	FBgn0046297	lncRNA:CR9284
+CR32661	FBgn0030356	lncRNA:CR32661
+Su(Ste):CR42438	FBgn0259869	Su(Ste):CR42438
+Uhg4	FBgn0083124	Uhg4
+pncr008:3L	FBgn0047000	CG33946
+chr3R_2645852_2646154.0	unknown ID	-
+CG32252	FBgn0052252	asRNA:CR32252
+Uhg7	FBgn0083121	Uhg7
+7SLRNA	FBgn0261504	7SLRNA:CR42652
+7SLRNA	FBgn0000003	7SLRNA:CR32864
+pncr002:3R	FBgn0063127	lncRNA:CR33938
+RNaseMRP:RNA	FBgn0065098	RNaseMRP:RNA
+RNaseP:RNA	FBgn0046696	RNaseP:RNA
+snoRNA:Psi28S-291	FBgn0065064	snoRNA:Psi28S-291
+snRNA:U1:82Eb	FBgn0004183	snRNA:U1:82Eb
+sphinx	FBgn0083990	lncRNA:sphinx
+CR40712	FBgn0085768	CR40712
+Su(Ste):CR40820	FBgn0085523	Su(Ste):CR40820
+Su(Ste):CR41533	FBgn0085673	Su(Ste):CR41533
+Su(Ste):CR42407	FBgn0259838	Su(Ste):CR42407
+Su(Ste):CR42409	FBgn0259840	Su(Ste):CR42409
+Su(Ste):CR42410	FBgn0259841	Su(Ste):CR42410
+Su(Ste):CR42411	FBgn0259842	Su(Ste):CR42411
+Su(Ste):CR42412	FBgn0259843	Su(Ste):CR42412
+Su(Ste):CR42413	FBgn0259844	CR42413
+Su(Ste):CR42415	FBgn0259846	Su(Ste):CR42415
+Su(Ste):CR42419	FBgn0259850	Su(Ste):CR42419
+Su(Ste):CR42420	FBgn0259851	Su(Ste):CR42420
+Su(Ste):CR42423	FBgn0259854	CR42423
+Su(Ste):CR42426	FBgn0259857	Su(Ste):CR42426
+Su(Ste):CR42427	FBgn0259858	Su(Ste):CR42427
+Su(Ste):CR42428	FBgn0259859	Su(Ste):CR42428
+Su(Ste):CR42429	FBgn0259860	Su(Ste):CR42429
+Su(Ste):CR42430	FBgn0259861	Su(Ste):CR42430
+Su(Ste):CR42431	FBgn0259862	Su(Ste):CR42431
+Su(Ste):CR42433	FBgn0259864	Su(Ste):CR42433
+Su(Ste):CR42434	FBgn0259865	CR42434
+Su(Ste):CR42440	FBgn0259871	CR42440
+Su(Ste):CR42443	FBgn0259874	CR42443
+Su(Ste):CR42444	FBgn0259875	Su(Ste):CR42444
+chrX_21059012_21059822.0	unknown ID	-
+CR32657	FBgn0052657	lncRNA:CR32657
+CR32658	FBgn0040859	lncRNA:CR32658
+CR32730	FBgn0047092	lncRNA:CR32730
+MIP22691	FBcl0740389	MIP22691
+pncr004:X	FBgn0047095	CG33939
+pncr009:3L	FBgn0062928	hpRNA:CR33940
+CG41257	FBgn0085582	lncRNA:CR41257
+CG8788	FBgn0028955	CG8788
+MIP06502	FBcl0701939	MIP06502
+bxd	FBgn0024275	UbxPRE
+bxd	FBgn0003944	Ubx
+bxd	FBgn0020556	lncRNA:bxd
+bxd	FBal0017532	Ubx[bxd-1]
+chr2L_13642820_13643256.0	unknown ID	-
+chr2L_5904935_5906245.0	unknown ID	-
+chr3L_18233591_18234137.0	unknown ID	-
+chr3R_1549831_1550766.0	unknown ID	-
+chr3R_15122979_15123457.0	unknown ID	-

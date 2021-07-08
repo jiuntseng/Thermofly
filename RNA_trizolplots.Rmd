@@ -1,0 +1,42 @@
+---
+title: "RNA_trizol_extraction"
+author: "Jiun Tseng"
+date: "7/7/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r}
+library(ggplot2)
+library(dplyr)
+library(reshape)
+library(wesanderson)
+
+#input csv of RNA extraction data
+tri<-read.csv("/Users/jiuntseng/Documents/Thermofly/RNA_trizol_extraction.csv", header = T)
+#asinging sample as factor and specifying levels as their original sequence 
+tri$sample<-factor(tri$sample, levels = tri$sample)
+#substituting collum name of nng.ul for nanodrop
+triz$variable<-gsub("ng.ul", "nanodrop", triz$variable)
+#melting 2 vectors of qubit and ngul as the y variable in a new "variable" collum to measure and using sample as x variable, while specifying tri as the data set
+triz<-melt(tri, id = "sample", measure = c("qubit", "nanodrop"))
+#plotting using ggplot of the x and y varible specified in the melt function, while specifying the color and group to change via variable, plotting both points and lines, naming x and y axis and the title, using the classis theme and using the wes anderson palette, specifying times new roman as the font
+ggplot(triz, aes(sample, value, colour = variable, group = variable)) + geom_point() + geom_line(aes(colour = variable))+
+  ylab("Concentration (qubit ng.ul)") +
+  xlab("Number of flies") + ggtitle("Concentration of extracted RNA from Drosophila Melanogaster")+
+  theme_classic()+
+  scale_color_manual(values = wes_palette("Darjeeling1", 4 , type = "continuous"))+
+  theme(text=element _text(family="Times New Roman", size=12))
+```
+
+```{r}
+#plotting bar plots of the tri data set, specifying sample for x and Nanodrop for y, plotting bar plots using geom_bar function, with the aesthetic being filled with color coordinating to the samples and using stat equals identity for heights of the bars to represent values in the data, using the wes anderson color pallet for the color, specifying TNR as the font
+ggplot(tri, aes(x=sample, y = Nanodrop))+ geom_bar(aes(fill= sample),stat='identity')+
+  theme_classic() + scale_fill_manual(values = wes_palette("Darjeeling1", 4 , type = "continuous"))+
+   theme(text=element_text(family="Times New Roman", size=12))
+```
+```{r}
+#Similar to last graph but using points instead of bar plots
+ggplot(tri, aes(x=sample, y = Nanodrop))+ geom_point(aes(colour = sample)) + theme_classic() + scale_color_manual(values = wes_palette("Darjeeling1", 4, type = "continuous")) + theme(text=element_text(family="Times New Roman", size=12)) + ggtitle("Nanodrop 260/280 of extracted RNA from Drosophila Melanogaster") + xlab("number of flies") + ylab("260/280")
+```
+

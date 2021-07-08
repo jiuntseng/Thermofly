@@ -1,0 +1,34 @@
+---
+title: "ChenflylncRNAsearch"
+author: "Jiun Tseng"
+date: "6/7/2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r}
+library("rjson")
+library("BiocManager")
+library("tidyverse")
+library("tidyjson")
+library("jsonlite")
+json<- fromJSON("/Users/jiuntseng/Documents/Thermofly/ncRNA_genes_fb_2021_02.json") %>% as.data.frame
+json
+```
+
+```{r}
+library("rjson")
+library("rtracklayer")
+# Give the input file name to the function.
+result <- fromJSON(file = "~/ncRNA_genes_fb_2021_02.json.gz")
+# Print the result.
+print(result)
+#convert to dataframe
+fb_ids = sub("FLYBASE:", "", sapply(result$data, function(x)x$primaryId))
+ref_gr = rtracklayer::import.gff("/Users/jiuntseng/Documents/Thermofly/ncRNA_genes_fb_2021_02.json")
+ref_gr.lnc = subset(ref_gr, transcript_id %in% fb_ids)
+
+```
+
+
+
